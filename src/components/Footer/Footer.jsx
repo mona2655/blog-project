@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='flex flex-col justify-center items-center'>
+    <div className='flex flex-col justify-center items-center mt-28'>
       <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content p-10">
   <nav>
     <h6 className="footer-title">Services</h6>
